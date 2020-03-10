@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "1.19.1"
+  },
+  "name": "express-restapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:robertPalczewski/express-restapi.git",
+  "author": "Robert Palczewski <robert.palczewski@gmail.com>",
+  "license": "MIT"
+}
